@@ -89,5 +89,18 @@ The dataset includes information on 3,678 Udemy courses and contains the followi
 - **CSV Dataset** – (from Udemy course listings)
 
 ---
+# Report Snapshot (Overview Page)
+
+<img width="1025" height="501" alt="Image" src="https://github.com/user-attachments/assets/62420fd5-ee61-4840-b16d-1c75749dedce" />
+
+---
+# Report Snapshot (Course Wise Price Analysis)
+<img width="984" height="492" alt="Image" src="https://github.com/user-attachments/assets/f20533a9-7e31-400b-83d6-f5fb4e672134" />
+
+---
+
+# Report Snapshot (ToolTip)
+<img width="391" height="269" alt="Image" src="https://github.com/user-attachments/assets/5fb92269-37ee-488d-ad86-fff7b7a068a1" />
+
 
 
